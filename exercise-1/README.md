@@ -12,4 +12,5 @@ will see the rendered markdown file.
 See `complete` branch for an example.
 
 >I don't know yet what I am capable of doing, but, by God, I have genius&mdash;I know it too well to blush behind it. 
+
 Thomas Wolfe ([Wikipedia](https://en.wikipedia.org/wiki/Thomas_Wolfe))
